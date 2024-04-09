@@ -10,21 +10,18 @@
 }
 
 .header img{
-<<<<<<< HEAD
     width: 70px;
 }
 
 .header{
     background-color: rgb(255, 153, 0);
     justify-content:  space-between;
-=======
     width: 50px;
 }
 
 .header{
     background-color: blanchedalmond;
     justify-content: space-between;
->>>>>>> 1a0bcd6601996058791bb790e780960a984503dd
 }
 
 .header .navbar{
@@ -34,13 +31,10 @@
 }
 
 .header .navbar a{
-<<<<<<< HEAD
     color: rgb(0, 0, 0);
 }
 .header li{
     list-style: none;
-}
-=======
     color: darkgreen;
     text-decoration: none;
 }
@@ -94,7 +88,7 @@ button{
     width: 100%;
     padding: 40px;
 }
->>>>>>> 1a0bcd6601996058791bb790e780960a984503dd
+
 @media screen and (max-width: 600px) {
     .container{
         display: flex;
@@ -105,31 +99,25 @@ button{
     }
     .two-column{
         width: 100vw;
-<<<<<<< HEAD
-=======
         display: flex;
         align-items: center;
         justify-content: center;
->>>>>>> 1a0bcd6601996058791bb790e780960a984503dd
     }
     button{
         width: 100px;
         font-size: 16px;
     }
-<<<<<<< HEAD
-=======
+
     .inner-content{
         display: flex;
         align-items: center;
         justify-content: center;
         flex-direction: column;
     }
->>>>>>> 1a0bcd6601996058791bb790e780960a984503dd
     .banner img{
         width: 50vw;
         height: fit-content;
     }
-<<<<<<< HEAD
 }
 
 .footer{
@@ -206,9 +194,7 @@ button{
     border-radius: 10px;
 }
 
-=======
-    .one-column{
-        width: 80vw;
-    }
+.one-column{
+    width: 80vw;
 }
->>>>>>> 1a0bcd6601996058791bb790e780960a984503dd
+
